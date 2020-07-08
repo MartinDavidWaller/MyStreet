@@ -8,6 +8,7 @@ The picture below was posted on facebook by Ian Potter with the title "Church Gr
 
 | House No. / Name | Date Range | Who | Comment |
 |------------------|------------|-----|---------|
+| Land upto the first house was known as "Goodwins Field". | | | See [1] |
 | Single story building at the corner | | | Possibly the Forge |
 
 ## Right hand size
