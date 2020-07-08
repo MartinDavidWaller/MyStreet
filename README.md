@@ -5,7 +5,14 @@
 
 ## Left hand side
 
+| House No. / Name | Date Range | Who | Comment |
+|------------------|------------|-----|---------|
+
 ## Right hand size
+
+| House No. / Name | Date Range | Who | Comment |
+|------------------|------------|-----|---------|
+| Olive Cottage / No. 6 | Diane Waller, Martin Waller, Nathan Waller | |
 
 ## References
 
