@@ -8,8 +8,8 @@ The picture below was posted on facebook by Ian Potter with the title "Church Gr
 
 | House No. / Name | Date Range | Who | Comment |
 |------------------|------------|-----|---------|
-| Land upto the first house was known as "Goodwins Field". | | | See [1] |
-| Single story building at the corner | | | Possibly the Forge |
+| Land upto the first house was known as "Goodwins Field". | | | Ref [1] |
+| Single story building at the corner | | | Possibly the Forge. Ref [2] |
 
 ## Right hand size
 
@@ -17,23 +17,43 @@ The picture below was posted on facebook by Ian Potter with the title "Church Gr
 
 | Date Range | Who | Comment |
 |------------|-----|---------|
-| ? | Mr & Mrs Lusher | See [1] |
+| ? | Mr & Mrs Lusher | Ref [1] |
 
 ### No. 3
 
 | Date Range | Who | Comment |
 |------------|-----|---------|
-| ? | Mr & Mrs Stevens | Cobler, grandfather of Mr Morley Stevens. See [1] |
+| ? | Mr & Mrs Stevens | Cobler, grandfather of Mr Morley Stevens. Ref [1] |
 
-| House No. / Name | Date Range | Who | Comment |
-|------------------|------------|-----|---------|
-| No. 2 | | Mr & Mrs Lusher | See [1] |
-| No. 3 | | Mr & Mrs Stevens | Cobler, grandfather of Mr Morley Stevens. See [1] |
-| Olive Cottage / No. 6 | | Diane Waller, Martin Waller, Nathan Waller | |
-| No. 9 | ? | Mrs Tiny Barnard | Great-aunt of Tina Jackaman. See [1] |
-| No. 11 | ? | Mr & Mrs Church | See [1] |
-| No. 12 | ? | Mr & Mrs Last | See [1] |
-| No. 13 | ? | Mr Walter Southgate | See [1] |
+### No. 6 / Olive Cottage
+
+| Date Range | Who | Comment |
+|------------|-----|---------|
+| ? | Mr & Mrs Waller | |
+
+### No. 9
+
+| Date Range | Who | Comment |
+|------------|-----|---------|
+| ? | Mrs Tiny Barnard | Great-aunt of Tina Jackaman. Ref [1] |
+
+### No. 11
+
+| Date Range | Who | Comment |
+|------------|-----|---------|
+| ? |  Mr & Mrs Church | Ref [1] |
+
+### No. 12
+
+| Date Range | Who | Comment |
+|------------|-----|---------|
+| ? | Mr & Mrs Last | Ref [1] |
+
+### No. 13
+
+| Date Range | Who | Comment |
+|------------|-----|---------|
+| ? | Mr Walter Southgate | Ref [1] |
 
 ## References
 
