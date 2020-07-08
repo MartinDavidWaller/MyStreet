@@ -12,7 +12,11 @@
 
 | House No. / Name | Date Range | Who | Comment |
 |------------------|------------|-----|---------|
-| Olive Cottage / No. 6 | Diane Waller, Martin Waller, Nathan Waller | |
+| Olive Cottage / No. 6 | | Diane Waller, Martin Waller, Nathan Waller | |
+| No. 9 | ? | Mrs Tiny Barnard | See [1] |
+| No. 11 | ? | Mr & Mrs Church | See [1] |
+| No. 12 | ? | Mr & Mrs Last | See [1] |
+| No. 13 | ? | Mr Walter Southgate | See [1] |
 
 ## References
 
