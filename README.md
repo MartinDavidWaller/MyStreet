@@ -2,16 +2,36 @@
 
 The first two pictures below were posted on facebook by Ian Potter. The second had the title "Church Green Chelmondiston. 1909.".
  
+Fig 1.
+
 <img src="https://github.com/MartinDavidWaller/MyStreet/blob/master/Pictures/ChurchGreenChurchEnd.jpg?sanitize=true&raw=true" /> 
+
+Fig 2.
+
 <img src="https://github.com/MartinDavidWaller/MyStreet/blob/master/Pictures/ChurchGreen.jpg?sanitize=true&raw=true" />
+
+Fig 3.
+
 <img src="https://github.com/MartinDavidWaller/MyStreet/blob/master/Pictures/TheGreen.jpg?sanitize=true&raw=true" />
 
 ## Left hand side
 
-| House No. / Name | Date Range | Who | Comment |
-|------------------|------------|-----|---------|
-| Land up to the first house was known as "Goodwins Field". | | | Ref [1] |
-| Single story building at the corner | | | Possibly the Forge. Ref [2] |
+### Field
+
+There used to be a field onthe left known as "Goodwins Field".
+
+### Poplars
+
+| Date Range | Who | Comment |
+|------------|-----|---------|
+| ? | Mr & Mrs Pearson | Ref [1] |
+| ? | Mr & Mrs Webb | Ref [1] |
+
+### Church House
+
+| Date Range | Who | Comment |
+|------------|-----|---------|
+| ? |  | |
 
 ## Right hand size
 
@@ -27,11 +47,25 @@ The first two pictures below were posted on facebook by Ian Potter. The second h
 |------------|-----|---------|
 | ? | Mr & Mrs Stevens | Cobler, grandfather of Mr Morley Stevens. Ref [1] |
 
+### No. 4
+
+| Date Range | Who | Comment |
+|------------|-----|---------|
+| ? | Mrs Davis | Ref [1] |
+
+### No. 5
+
+| Date Range | Who | Comment |
+|------------|-----|---------|
+| ? | Mr & Mrs Turner (George and Margie) | Ref [1] |
+
 ### No. 6 / Olive Cottage
 
 | Date Range | Who | Comment |
 |------------|-----|---------|
 | ? | Mr & Mrs Waller | |
+| ? | Mr & Mrs Hedges | |
+| ? | Beatty Goodchild | |
 
 ### No. 9
 
