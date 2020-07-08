@@ -1,5 +1,6 @@
 # MyStreet
- My street, the houses, and history
+
+The picture below was posted on facebook by Ian Potter with the title "Church Green Chelmondiston. 1909.".
  
  <img src="https://github.com/MartinDavidWaller/MyStreet/blob/master/Pictures/ChurchGreen.jpg?sanitize=true&raw=true" />
 
@@ -13,7 +14,7 @@
 | House No. / Name | Date Range | Who | Comment |
 |------------------|------------|-----|---------|
 | Olive Cottage / No. 6 | | Diane Waller, Martin Waller, Nathan Waller | |
-| No. 9 | ? | Mrs Tiny Barnard | See [1] |
+| No. 9 | ? | Mrs Tiny Barnard | Great-aunt of Tina Jackaman. See [1] |
 | No. 11 | ? | Mr & Mrs Church | See [1] |
 | No. 12 | ? | Mr & Mrs Last | See [1] |
 | No. 13 | ? | Mr Walter Southgate | See [1] |
