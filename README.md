@@ -13,8 +13,22 @@ The picture below was posted on facebook by Ian Potter with the title "Church Gr
 
 ## Right hand size
 
+### No. 2
+
+| Date Range | Who | Comment |
+|------------|-----|---------|
+| ? | Mr & Mrs Lusher | See [1] |
+| ? | Mr & Mrs Stevens | Cobler, grandfather of Mr Morley Stevens. See [1] |
+| ? | Diane Waller, Martin Waller, Nathan Waller | |
+| ? | Mrs Tiny Barnard | Great-aunt of Tina Jackaman. See [1] |
+| ? | Mr & Mrs Church | See [1] |
+| ? | Mr & Mrs Last | See [1] |
+| ? | Mr Walter Southgate | See [1] |
+
 | House No. / Name | Date Range | Who | Comment |
 |------------------|------------|-----|---------|
+| No. 2 | | Mr & Mrs Lusher | See [1] |
+| No. 3 | | Mr & Mrs Stevens | Cobler, grandfather of Mr Morley Stevens. See [1] |
 | Olive Cottage / No. 6 | | Diane Waller, Martin Waller, Nathan Waller | |
 | No. 9 | ? | Mrs Tiny Barnard | Great-aunt of Tina Jackaman. See [1] |
 | No. 11 | ? | Mr & Mrs Church | See [1] |
