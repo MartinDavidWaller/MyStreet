@@ -8,6 +8,7 @@ The picture below was posted on facebook by Ian Potter with the title "Church Gr
 
 | House No. / Name | Date Range | Who | Comment |
 |------------------|------------|-----|---------|
+| Single story building at the corner | | | Possibly the Forge |
 
 ## Right hand size
 
@@ -22,3 +23,4 @@ The picture below was posted on facebook by Ian Potter with the title "Church Gr
 ## References
 
 [1] - Conversation with Yvonne Catchpole 7-Jul-2020
+[2] - facebook comment from Ian Potter 8-Jul-2020
