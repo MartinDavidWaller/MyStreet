@@ -37,6 +37,12 @@ The picture below was posted on facebook by Ian Potter with the title "Church Gr
 |------------|-----|---------|
 | ? | Mrs Tiny Barnard | Great-aunt of Tina Jackaman. Ref [1] |
 
+### No. 10
+
+| Date Range | Who | Comment |
+|------------|-----|---------|
+| ? |  Mr Waller | |
+
 ### No. 11
 
 | Date Range | Who | Comment |
@@ -57,5 +63,5 @@ The picture below was posted on facebook by Ian Potter with the title "Church Gr
 
 ## References
 
-* [1] - Conversation with Yvonne Catchpole 7-Jul-2020
-* [2] - facebook comment from Ian Potter 8-Jul-2020
+* [1] - Conversation with Mrs Yvonne Catchpole 7-Jul-2020
+* [2] - facebook comment from Mr Ian Potter 8-Jul-2020
