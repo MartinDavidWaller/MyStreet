@@ -27,6 +27,10 @@ There used to be a field onthe left known as "Goodwins Field".
 | ? | Mr & Mrs Pearson | Ref [1] |
 | ? | Mr & Mrs Webb | Ref [1] |
 
+### Old Forge
+
+As can be seen in Fig 1 there is an "old blacksmith’s forge". Ref [3]
+
 ### Church House
 
 | Date Range | Who | Comment |
@@ -35,10 +39,19 @@ There used to be a field onthe left known as "Goodwins Field".
 
 ## Right hand size
 
-### No. 2
+### No. 1
 
 | Date Range | Who | Comment |
 |------------|-----|---------|
+| ? | Hollingsworth Shop | |
+
+### No. 2
+
+Built on the site of an old orchard. Ref [4]
+
+| Date Range | Who | Comment |
+|------------|-----|---------|
+| 1984 - 2017 | Mr Williamson (Dick) | | 
 | ? | Mr & Mrs Lusher | Ref [1] |
 
 ### No. 3
@@ -78,6 +91,7 @@ There used to be a field onthe left known as "Goodwins Field".
 | Date Range | Who | Comment |
 |------------|-----|---------|
 | October 1985 - Late 1992 |  Mr Waller | |
+| ? - October 1985 | Mr & Mrs Andrews (Julian and Wendy) | | 
 
 ### No. 11
 
@@ -99,5 +113,7 @@ There used to be a field onthe left known as "Goodwins Field".
 
 ## References
 
-* [1] - Conversation with Mrs Yvonne Catchpole 7-Jul-2020
-* [2] - facebook comment from Mr Ian Potter 8-Jul-2020
+* [1] - Conversation with Mrs Yvonne Catchpole, 7-Jul-2020
+* [2] - facebook comment from Mr Ian Potter, 8-Jul-2020
+* [3] - facebook comment from Judiith Abbott, 8-Jul-2020
+* [4] - Information from Mr Dick Williamson, 8-Jul-2020
