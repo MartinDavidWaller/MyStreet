@@ -58,6 +58,7 @@ Built on the site of an old orchard. Ref [4]
 | Date Range | Who | Comment |
 |------------|-----|---------|
 | 1984 - 2017 | Mr Williamson (Dick) | | 
+| 1963 | Shirley Wyartt | | 
 | ? | Mr & Mrs Lusher | Ref [1] |
 
 ### No. 3
@@ -78,7 +79,7 @@ Built on the site of an old orchard. Ref [4]
 
 | Date Range | Who | Comment |
 |------------|-----|---------|
-| - July 2020 | Mr g. Maples & Mrs Sarah Davies | |
+| - July 2020 | Mr Gary Maples & Mrs Sarah Davies | |
 | ? | Mr & Mrs Turner (George and Margie) | Ref [1] |
 
 ### No. 6 / Olive Cottage
