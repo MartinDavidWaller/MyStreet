@@ -27,6 +27,12 @@ There used to be a field onthe left known as "Goodwins Field".
 | ? | Mr & Mrs Pearson | Ref [1] |
 | ? | Mr & Mrs Webb | Ref [1] |
 
+## Alma Cottage
+
+| Date Range | Who | Comment |
+|------------|-----|---------|
+| ? | Mr & Mrs Walker (Jerry & Beryl) | |
+
 ### Old Forge
 
 As can be seen in Fig 1 there is an "old blacksmith’s forge". Ref [3]
@@ -59,24 +65,27 @@ Built on the site of an old orchard. Ref [4]
 | Date Range | Who | Comment |
 |------------|-----|---------|
 | ? | Mr & Mrs Stevens | Cobler, grandfather of Mr Morley Stevens. Ref [1] |
+| ? | Mr Bowen (John) | |
 
 ### No. 4
 
 | Date Range | Who | Comment |
 |------------|-----|---------|
+| ? | Mr & Mrs Newton (Raymond & Trudi) | |
 | ? | Mrs Davis | Ref [1] |
 
 ### No. 5
 
 | Date Range | Who | Comment |
 |------------|-----|---------|
+| - July 2020 | Mr g. Maples & Mrs Sarah Davies | |
 | ? | Mr & Mrs Turner (George and Margie) | Ref [1] |
 
 ### No. 6 / Olive Cottage
 
 | Date Range | Who | Comment |
 |------------|-----|---------|
-| ? | Mr & Mrs Waller | |
+| ? | Mr & Mrs Waller (Martin & Diane) | |
 | ? | Mr & Mrs Hedges | |
 | ? | Beatty Goodchild | |
 
