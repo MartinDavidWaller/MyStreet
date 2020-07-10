@@ -25,7 +25,7 @@ There used to be a field onthe left known as "Goodwins Field".
 | Date Range | Who | Comment |
 |------------|-----|---------|
 | ? | Mr & Mrs Pearson | Ref [1] |
-| ? | Mr & Mrs Webb | Ref [1] |
+| ? | Mr & Mrs Webb | Mr Webb was a coffin maker. Ref [1], [6] |
 
 ## Alma Cottage
 
@@ -121,9 +121,18 @@ Built on the site of an old orchard. Ref [4]
 |------------|-----|---------|
 | ? | Mr Walter Southgate | Ref [1] |
 
+### Church Cottage
+
+| Date Range | Who | Comment |
+|------------|-----|---------|
+| 1979 - | Mr & Mrs McCoy (Pete & Lilian) | Ref [5] |
+| ? | Mr & Mrs De'aths | Ref [5] |
+
 ## References
 
 * [1] - Conversation with Mrs Yvonne Catchpole, 7-Jul-2020
 * [2] - facebook comment from Mr Ian Potter, 8-Jul-2020
 * [3] - facebook comment from Judiith Abbott, 8-Jul-2020
 * [4] - Information from Mr Dick Williamson, 8-Jul-2020
+* [5] - facebook comment from Lilian McCoy, 10-Jul-2020
+* [6] - facebook comment from Shirley Wyartt, 8-Jul-2020
