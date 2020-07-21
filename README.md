@@ -86,9 +86,14 @@ Built on the site of an old orchard. Ref [4]
 
 | Date Range | Who | Comment |
 |------------|-----|---------|
-| ? | Mr & Mrs Waller (Martin & Diane) | |
-| ? | Mr & Mrs Hedges | |
-| ? | Beatty Goodchild | |
+| 18th October 1994 | Mr Martin David Waller (Martin & Diane) | I have the related documents. |
+| 15th June 1990 | Mr & Mrs Hedges | I have the related conveyance document. |
+| 28th October 1971 | Kitty Beatrice Hart | I have the related assent document. |
+| 9th February 1959 | Mr William Isaac Goodchild | William died 28th September 1968, all his belongings were bequeathed to his wife Kitt Beatrice. I have a copy of the death certificate, the Last Will and Testament, and the related conveyance document. |
+| 6th January 1940 | Mr T.G. Elmer | I have the related conveyance document. |
+| 8th September 1930 | Mrs. J.A. Gaul | I have the related conveyance document. |
+| 4th July 1922 | Miss E. Powell | I have the related conveyance document. |
+| ? | Mr N Corder | |
 
 ### No. 9
 
