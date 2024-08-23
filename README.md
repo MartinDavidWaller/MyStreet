@@ -16,9 +16,13 @@ Fig 3.
 
 ## Left hand side
 
+### Slaughter House
+
+Slaughter house owned by Goodwins.
+
 ### Field
 
-There used to be a field onthe left known as "Goodwins Field".
+There used to be a field on the left known as "Goodwins Field".
 
 ### Poplars
 
@@ -49,7 +53,8 @@ As can be seen in Fig 1 there is an "old blacksmith’s forge". Ref [3]
 
 | Date Range | Who | Comment |
 |------------|-----|---------|
-| ? | Hollingsworth Shop | |
+| ? | Hollingsworth Butchers | |
+| ? | Goodwins Butchers | |
 
 ### No. 2
 
@@ -81,19 +86,24 @@ Built on the site of an old orchard. Ref [4]
 |------------|-----|---------|
 | - July 2020 | Mr Gary Maples & Mrs Sarah Davies | |
 | ? | Mr & Mrs Turner (George and Margie) | Ref [1] |
+| 1886 | Mr James Lucas | Confirmed by a Abstract of title document that I have. |
+
 
 ### No. 6 / Olive Cottage
 
 | Date Range | Who | Comment |
 |------------|-----|---------|
-| 18th October 1994 | Mr Martin David Waller (Martin & Diane) | I have the related documents. |
+| 2md December 1994 | Mr Martin David Waller (Martin & Diane) | I have the related documents. |
 | 15th June 1990 | Mr & Mrs Hedges | I have the related conveyance document. |
 | 28th October 1971 | Kitty Beatrice Hart | I have the related assent document. |
 | 9th February 1959 | Mr William Isaac Goodchild | William died 28th September 1968, all his belongings were bequeathed to his wife Kitt Beatrice. I have a copy of the death certificate, the Last Will and Testament, and the related conveyance document. |
-| 6th January 1940 | Mr T.G. Elmer | I have the related conveyance document. |
+| 6th January 1940 | Mr Thomas George Elmer | I have the related conveyance document. Paid £210 |
 | 8th September 1930 | Mrs. J.A. Gaul | I have the related conveyance document. |
-| 4th July 1922 | Miss E. Powell | I have the related conveyance document. |
-| ? | Mr N Corder | |
+| 4th July 1922 | Miss Ellen. Powell | I have the related conveyance document. |
+|  | Frederick Albert Sage | |
+| 23rd November 1886 | Mr Charles Lait | I have the related conveyance document. Paid £130. |
+| ? | Mr Edward Calver |  |
+| ? | Mr Newman Corder | |
 
 ### No. 9
 
@@ -125,13 +135,14 @@ Built on the site of an old orchard. Ref [4]
 | Date Range | Who | Comment |
 |------------|-----|---------|
 | ? | Mr Walter Southgate | Ref [1] |
+| 1886 | Mr A. Dale | Confirmed by a Abstract of title document that I have. Ref [1] |
 
 ### Church Cottage
 
 | Date Range | Who | Comment |
 |------------|-----|---------|
 | 1979 - | Mr & Mrs McCoy (Pete & Lilian) | Ref [5] |
-| ? | Mr & Mrs De'aths | Ref [5] |
+| 1886 | Mr & Mrs John Deaths | Confirmed by a Abstract of title document that I have. Ref [5] |
 
 ## References
 
